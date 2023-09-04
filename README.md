@@ -24,6 +24,7 @@ You can find here:
 
 * Lecture notes can be found [here](script.pdf). 
 * Slides are [here](slides).
+* Useful, but possibly outdated material from lectures from previous years can be found [here](lecture_material.md).
 * Additional material is linked [here](resources.md).
 
 
@@ -35,8 +36,8 @@ You can find here:
 |Mon 28.Aug | Lecture | In person | Leander | Proof of Work | [slides](slides/blockchain3pow.pdf), [Script](script.pdf) Chapter 3.1 - 3.3, Videos [11](https://youtu.be/ehO-TKhuAro) and [13](https://youtu.be/B7O5yDY4_N0)  | 
 |Thu 31.Aug | Lecture | In person | Leander | Proof of Work - Forks | Chapter 3.4 [slides](slides/blockchain4forks.pdf) |
 |Thu 31.Aug | Lab | In person | Jungwon |  Lab 1 |  |
-|Mon 04.Sep | Lecture | In person | Leander | Reparametrization | Chapter 3.5 [slides](slides/blockchain5reparametrization.pdf) |
-|Thu 08.Sep | Lecture | In person | Leander | Alternative PoW and PoS | Chapter 4 and 5.1,[slides](slides/blockchain6pos.pdf), [Video](https://youtu.be/TipGy2bOVL4)  |
+|Mon 04.Sep | Lecture | In person | Leander | Alternative PoW and PoS | Chapter 4 and 5.1,[slides](slides/blockchain6pos.pdf), [Video](https://youtu.be/TipGy2bOVL4)  |
+|Thu 08.Sep | Lecture | In person | Leander | Bitcoin-NG  and Committees | Chapter 5.2 and 8 |
 |Thu 07.Sep | Lab | In person | Jungwon |  Lab 2 |  |
 |Mon 11.Sep | Lecture | Leander | Bitcoin-NG and Sharding | Chapter 5.2 and 5.3, [Bitcoin-NG](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal) [Sharding](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping), [slides](slides/blockchain7ngandsharding.pdf) |
 |Thu 14.Sep | Lecture | In person | Arian | Ethereum| [slides](slides/smartContracts.pdf), [reading](https://arxiv.org/pdf/2207.02264.pdf) |
