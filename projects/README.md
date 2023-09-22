@@ -30,7 +30,7 @@ The project topics are as follows:
 | 4                | [Reducing the Gas Usage of Ethereum Smart Contracts without a Sidechain](https://ieeexplore.ieee.org/abstract/document/10174876) |Smart Contracts| |
 | 5                | [MeritRank: Sybil Tolerant Reputation for Merit-based Tokenomics](https://arxiv.org/pdf/2207.09950.pdf)                                          |Reputation           | |
 | 6                | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones ](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)              |Sharding                   | |
-| 7                | [Breaking Blockchain Rationality with Out-of-Band Collusion (https://arxiv.org/pdf/2305.00554)                      |Game Theory                | |
+| 7                | [Breaking Blockchain Rationality with Out-of-Band Collusion] (https://arxiv.org/pdf/2305.00554)                      |Game Theory                | |
 | 8                | [Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285)                      |Proof of Stake             | |
 
 If you have ideas for a different project, please talk to us.
