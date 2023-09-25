@@ -26,7 +26,7 @@ The project topics are as follows:
 | ---------------- | -----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---|
 | 1                | [Block Double-Submission Attack: Block Withholding Can Be Self-Destructive](https://arxiv.org/pdf/2208.05425.pdf)                              |Proof of Work, Mining pools| |
 | 2                | [High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf)                  |Payment Channels             | |
-| 3                | [CoinExpress: A Fast Payment Routing Mechanism in Blockchain-Based Payment Channel Networks](https://ieeexplore.ieee.org/document/8487351)   |Payment Channels| |
+| 3                | [CoinExpress: A Fast Payment Routing Mechanism in Blockchain-Based Payment Channel Networks](https://ieeexplore.ieee.org/document/8487351)   |Payment Channels| Aleksander and Vidar |
 | 4                | [Reducing the Gas Usage of Ethereum Smart Contracts without a Sidechain](https://ieeexplore.ieee.org/abstract/document/10174876) |Smart Contracts| Erlend |
 | 5                | [MeritRank: Sybil Tolerant Reputation for Merit-based Tokenomics](https://arxiv.org/pdf/2207.09950.pdf)                                          |Reputation           | |
 | 6                | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones ](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)              |Sharding                   | Daniel and Danny |
