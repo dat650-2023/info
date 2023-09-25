@@ -29,7 +29,7 @@ The project topics are as follows:
 | 3                | [CoinExpress: A Fast Payment Routing Mechanism in Blockchain-Based Payment Channel Networks](https://ieeexplore.ieee.org/document/8487351)   |Payment Channels| |
 | 4                | [Reducing the Gas Usage of Ethereum Smart Contracts without a Sidechain](https://ieeexplore.ieee.org/abstract/document/10174876) |Smart Contracts| |
 | 5                | [MeritRank: Sybil Tolerant Reputation for Merit-based Tokenomics](https://arxiv.org/pdf/2207.09950.pdf)                                          |Reputation           | |
-| 6                | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones ](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)              |Sharding                   | |
+| 6                | [Monoxide: Scale out Blockchains with Asynchronous Consensus Zones ](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)              |Sharding                   | Daniel and Danny |
 | 7                | [Breaking Blockchain Rationality with Out-of-Band Collusion](https://arxiv.org/pdf/2305.00554)                      |Game Theory                | |
 | 8                | [Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285)                      |Proof of Stake             | |
 
