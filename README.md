@@ -48,8 +48,8 @@ You can find here:
 |Mon 25.Sep | Lecture | In person | Leander | Hyperledger and BFT | [slides](slides/hyperledgerHotStuff.pdf) |
 |Thu 28.Sep | Lecture | In person | Leander | Use cases |  [slides](slides/usecases.pdf) |
 |Thu 28.Sep | Lab | In person | Jungwon | Lab3 | BFT | Chapter 7.1 & 7.2, [slides](slides/Lecture-10.pdf) |
-|Mon 02.Oct | Lecture | In person | Leander | Hybrid | Chapter 8, [slides](slides/Lecture-11.pdf) |
-|Thu 05.Oct | Lecture | In person | Leander | Use cases | [slides](slides/Lecture-15.pdf) |
+|Mon 02.Oct | Lecture | In person | Arian | Iota and DAG |  |
+|Thu 05.Oct | Lecture | In person | Leander | Privacy | |
 |Thu 05.Oct | Lab | In person | Jungwon | Lab3 |  |
 |Mon 09.Oct | Lecture | In person | Arian & Leander | Project  | |
 |Thu 12.Oct | Lecture | In person | Arian | Project |   |
