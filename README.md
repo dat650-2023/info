@@ -45,8 +45,8 @@ You can find here:
 |Mon 18.Sep | Lecture | In person | Arian | Smart Contracts | [example](solidity/solidityDevelopment.md), Chapter 9.1, ,[crypto-zombies](https://cryptozombies.io/en/course) |
 |Thu 21.Sep | Lecture | In person | Arian | Smart Contract security | [slides](slides/SmartContractSecurity.pdf), [reading](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc), [examples](solidity/security) |
 |Thu 21.Sep | Lab | In person | Jungwon | Lab2 |  |
-|Mon 25.Sep | Lecture | In person | Leander | Oracles and Off chain networks| [slides](slides/blockchain9offchain.pdf) |
-|Thu 28.Sep | Lecture | In person | Leander | Stellar and System models | Chapter 6, [slides](slides/blockchain10models.pdf) |
+|Mon 25.Sep | Lecture | In person | Leander | Hyperledger and BFT | [slides](slides/hyperledgerHotStuff.pdf) |
+|Thu 28.Sep | Lecture | In person | Leander | Use cases |  [slides](slides/usecases.pdf) |
 |Thu 28.Sep | Lab | In person | Jungwon | Lab3 | BFT | Chapter 7.1 & 7.2, [slides](slides/Lecture-10.pdf) |
 |Mon 02.Oct | Lecture | In person | Leander | Hybrid | Chapter 8, [slides](slides/Lecture-11.pdf) |
 |Thu 05.Oct | Lecture | In person | Leander | Use cases | [slides](slides/Lecture-15.pdf) |
