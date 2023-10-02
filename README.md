@@ -48,8 +48,8 @@ You can find here:
 |Mon 25.Sep | Lecture | In person | Leander | Hyperledger and BFT | [slides](slides/hyperledgerHotStuff.pdf) |
 |Thu 28.Sep | Lecture | In person | Leander | Use cases |  [slides](slides/usecases.pdf) |
 |Thu 28.Sep | Lab | In person | Jungwon | Lab3 | BFT | Chapter 7.1 & 7.2, [slides](slides/Lecture-10.pdf) |
-|Mon 02.Oct | Lecture | In person | Arian | Iota and DAG |  |
-|Thu 05.Oct | Lecture | In person | Leander | Privacy | |
+|Mon 02.Oct | Lecture | In person | Leander | Privacy | [slides](slides/privacyandEthereumTrees.pdf) |
+|Thu 05.Oct | Lecture | In person | Leander | Iota and DAG | |
 |Thu 05.Oct | Lab | In person | Jungwon | Lab3 |  |
 |Mon 09.Oct | Lecture | In person | Arian & Leander | Project  | |
 |Thu 12.Oct | Lecture | In person | Arian | Project |   |
@@ -64,7 +64,7 @@ You can find here:
 |Thu 02.Nov | Lecture | In person | Arian & Leander | Project presentation |
 |Thu 02.Nov | Lab | In person | Jungwon | Project |  |
 |Mon 06.Nov | Lecture | In person | Arian | Demo | 
-|Thu 09.Nov | Lecture | In person | Leander | Privacy | [slides](slides/Lecture-16.pdf) |
+|Thu 09.Nov | Lecture | In person | Leander | TBA |  |
 |Thu 09.Nov | Lab | In person | Jungwon | Lab 4 |  |
 |Mon 13.Nov | Lecture | In person | Leander | TBA |
 |Thu 16.Nov | Lecture | In person | Leander & Arian | Question and Answer |  |
