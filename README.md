@@ -39,11 +39,11 @@ You can find here:
 |Mon 04.Sep | Lecture | In person | Leander | Alternative PoW and PoS | Chapter 4 and 5.1,[slides](slides/blockchain6pos.pdf), [Video](https://youtu.be/TipGy2bOVL4)  |
 |Thu 08.Sep | Lecture | In person | Leander | Bitcoin-NG  and Committees | Chapter 5.2 and 8 |
 |Thu 07.Sep | Lab | In person | Jungwon |  Lab 2 |  |
-|Mon 11.Sep | Lecture | Leander | Bitcoin-NG and Sharding | Chapter 5.2 and 5.3, [Bitcoin-NG](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal) [Sharding](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping), [slides](slides/blockchain7ngandsharding.pdf) |
-|Thu 14.Sep | Lecture | In person | Arian | Ethereum| [slides](slides/smartContracts.pdf), [reading](https://arxiv.org/pdf/2207.02264.pdf) |
+|Mon 11.Sep | Lecture | In Person | Arian | Ethereum |Chapter 5.2 and 5.3, [Bitcoin-NG](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal) [Sharding](https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping), [slides](slides/blockchain7ngandsharding.pdf) |
+|Thu 14.Sep | Lecture | In person | Arian | Smart Contracts (+ Security)| [slides](slides/smartContracts.pdf), [reading](https://arxiv.org/pdf/2207.02264.pdf) |
 |Thu 14.Sep | Lab | D-225 | Jungwon |  Lab 2 |  |
-|Mon 18.Sep | Lecture | In person | Arian | Smart Contracts | [example](solidity/solidityDevelopment.md), Chapter 9.1, ,[crypto-zombies](https://cryptozombies.io/en/course) |
-|Thu 21.Sep | Lecture | In person | Arian | Smart Contract security | [slides](slides/SmartContractSecurity.pdf), [reading](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc), [examples](solidity/security) |
+|Mon 18.Sep | Lecture | In person | Arian | System models | [example](solidity/solidityDevelopment.md), Chapter 9.1, ,[crypto-zombies](https://cryptozombies.io/en/course) |
+|Thu 21.Sep | Lecture | In person | Arian | Payment channels | [slides](slides/SmartContractSecurity.pdf), [reading](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc), [examples](solidity/security) |
 |Thu 21.Sep | Lab | In person | Jungwon | Lab2 |  |
 |Mon 25.Sep | Lecture | In person | Leander | Hyperledger and BFT | [slides](slides/hyperledgerHotStuff.pdf) |
 |Thu 28.Sep | Lecture | In person | Leander | Use cases |  [slides](slides/usecases.pdf) |
