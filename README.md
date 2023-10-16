@@ -39,7 +39,7 @@ You can find here:
 |Mon 04.Sep | Lecture | In person | Leander | Alternative PoW and PoS | Chapter 4 and 5.1,[slides](slides/blockchain6pos.pdf), [Video](https://youtu.be/TipGy2bOVL4)  |
 |Thu 08.Sep | Lecture | In person | Leander | Bitcoin-NG  and Committees | Chapter 5.2 and 8 |
 |Thu 07.Sep | Lab | In person | Jungwon |  Lab 2 |  |
-|Mon 11.Sep | Lecture | In Person | Arian | Ethereum |[slides](slides/blockchain-ethereum)|
+|Mon 11.Sep | Lecture | In Person | Arian | Ethereum |[slides](slides/blockchain-ethereum.pdf)|
 |Thu 14.Sep | Lecture | In person | Arian | Smart Contracts (+ Security)| [slides](slides/SmartContractSecurity.pdf), [reading](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc), [examples](solidity/security), [crypto-zombies](https://cryptozombies.io/en/course) |
 |Thu 14.Sep | Lab | D-225 | Jungwon |  Lab 2 |  |
 |Mon 18.Sep | Lecture | In person | Arian | System models | [slides](slides/blockchain-system.pdf) |
