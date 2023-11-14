@@ -2,14 +2,25 @@
 
 | Fakta ||
 |-----|-----|
-|Date:| 29. November 2022 9am |
-|Form:| Written exam 4 hours |
-|Tools: | bring your own pc |
-|Evaluators: | Leander Jehl |
+|Date:| 27. November 2023 |
+|Form:| Oral exam 20 minutes each |
+|Tools: | come in person |
+|Room: | E-423 |
+|Evaluators: | Leander Jehl and Arian Baloochestani |
 
-- [Exam Info](#exam-info)
-  - [Curriculum](#curriculum)
+## Timetable
 
+| Time | Name |
+|------|------|
+| 9:00 | Aleksander Vedvik |
+| 9:30 | Erlend Bygdås |
+| 10:30 | Benjamin Mydland |
+| 11:00 | Alan Rostem |
+| 11:30 | Daniel Solheim |
+| 12:30 | Aleksander Odland Fattnes |
+| 13:00 | Daniel Osmundsen |
+| 14:00 | Danny Vo |
+| 14:30 | Vidar André Bø |
 
 ## Curriculum
 
